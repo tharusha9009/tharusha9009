@@ -1,3 +1,7 @@
+<div align="center">
+<img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D30836%26project%3D%26in=0">
+</div>
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CEF720&background=2FFFE800&width=435&lines=Hello+%2C+Im+Tharusha+Lakshan;+%F0%9F%8E%93+Student+at+Westminster+;%F0%9F%92%BB+Java+%26+Python+Coder;%F0%9F%8E%AE+Aspiring+Game+Developer;%22Building+worlds+with+code%2C+one+line+at+a+time.%22" alt="Typing SVG" /></a>
 <h1 align="center">Hi 👋, I'm Tharusha Lakshan</h1>
 <h3 align="center">A passionate frontend developer from Sri lanka</h3>
