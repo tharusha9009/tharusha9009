@@ -9,6 +9,9 @@
 <h2 align="center">"👋 Diving into the world of Computer science!"</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharusha9009&label=Profile%20views&color=0e75b6&style=flat" alt="tharusha9009" /> </p>
+<p align='center'>
+
+<img src='https://hacked-github-stat-trophies.vercel.app/?username=tharusha9009&theme=dracula&column=11'></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tharusha9009" alt="tharusha9009" /></a> </p>
 
@@ -30,7 +33,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharusha9009&show_icons=true&locale=en&layout=compact" alt="tharusha9009" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tharusha9009&show_icons=true&locale=en" alt="tharusha9009" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tharusha9009&" alt="tharusha9009" /></p>
+<p align=left>
+<img algin='left' width='49.7%' src='https://readme-stats-fabio-vicente.vercel.app/api?username=tharusha9009&count_private=true&show_icons=true&theme=dark' />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tharusha9009&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D&card_width=498&card_height=200" alt="GitHub Streak" /></a>
+</p>
 
