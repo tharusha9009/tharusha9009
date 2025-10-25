@@ -19,9 +19,6 @@
 - 🌱 I’m currently learning **Python , Java , React, 3D-modeling and  Javascript**
 - 🎯 Exploring **Game Development** with *Unreal Engine & 3D Modelling*
 - 💡 Interested in **Web Dev**, **AI**, **DevOps**,and **Interactive 3D Experiences**
-- 📫 Reach me at **tharushalakshan901@gmail.com**
-
-
 - 📫 How to reach me **tharushalakshan901@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
