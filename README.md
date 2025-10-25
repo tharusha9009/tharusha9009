@@ -42,4 +42,4 @@
 <img algin='left' width='49.7%' src='https://readme-stats-fabio-vicente.vercel.app/api?username=tharusha9009&count_private=true&show_icons=true&theme=dark' />
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tharusha9009&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D&card_width=498&card_height=200" alt="GitHub Streak" /></a>
 </p>
-
+<img src="https://www.gitch.art/api/og/tharusha9009?color=74b816" width="2000" height="300" frameborder="10" scrolling="yes"></>
