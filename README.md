@@ -13,7 +13,7 @@
 
 <img src='https://hacked-github-stat-trophies.vercel.app/?username=tharusha9009&theme=dracula&column=11'></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tharusha9009" alt="tharusha9009" /></a> </p>
+
 ### 🧠 About Me
 
 - 🌱 I’m currently learning **Python , Java , React, 3D-modeling and  Javascript**
