@@ -4,7 +4,7 @@
 
 <div align="center" data-index="32" class="VirtualList--item" style="height: 600; transform: translateY(14364px);"><div class="Gallery-Content--mediaContainer"><div class="Gallery-Content--media"><div class="imageContainer zoomable"><img class="image-placeholder" src="https://i.imgur.com/6Infbfn.gif" alt="Pixel-art-gif-wallpaper-dump"><div class="imageContainer"><div class="Dropdown Dropdown--btn Dropdown--media Dropdown--postPage">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3FF718&background=2FFFE800&width=435&lines=Hello+%2C+Im+Tharusha+Lakshan;+%F0%9F%8E%93+Student+at+Westminster+;%F0%9F%92%BB+Java+%26+Python+Coder;%F0%9F%8E%AE+Aspiring+Game+Developer;%22Building+worlds+with+code%2C+one+line+at+a+time.%22" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3FF718&background=2FFFE800&width=435&lines=Hello+%2C+Im+Tharusha+Lakshan;+%F0%9F%8E%93+Student+at+Westminster+;%F0%9F%92%BB+Java+%26+Python+Coder;%F0%9F%8E%AE+Aspiring+Backend+Developer;%22Building+worlds+with+code%2C+one+line+at+a+time.%22" alt="Typing SVG" /></a>
 <h1 align="center">Hi 👋, I'm Tharusha Lakshan</h1>
 <h2 align="center">"👋 Diving into the world of Computer science!"</h2>
 
